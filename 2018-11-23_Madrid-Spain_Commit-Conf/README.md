@@ -1,5 +1,9 @@
 # Commit Conf 2018
 
+https://2018.commit-conf.com/
+
+[Agenda](https://www.koliseo.com/events/commit-2018/r4p/5630471824211968/agenda#/5116072650866688)
+
 ## My attended talks
 
 | Talk | Resources | Notes |
