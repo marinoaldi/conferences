@@ -1,6 +1,6 @@
 # Commit Conf 2018
 
-## Attended talks
+## My attended talks
 
 | Talk | Resources | Notes |
 | --- | --- | --- |
@@ -18,7 +18,22 @@
 | *El día que creamos una AI que jugara a La Abadía del Crimen* | Announcement: [#1](https://www.koliseo.com/events/commit-2018/r4p/5630471824211968/agenda#/5734118109216768/5664208255451136). <br /> Presentation: [slideshow](LINK_SLIDESHOW), [video](LINK_SOURCE). | 
 | *Esos contenedores... ¡a producción!* | Announcement: [#1](https://www.koliseo.com/events/commit-2018/r4p/5630471824211968/agenda#/5734118109216768/5652940677185536). <br /> Presentation: [video](https://www.youtube.com/watch?v=m253ICfDxMs). |
 
+## Other attended talks
 
+| Talk | Resources | Notes |
+| --- | --- | --- |
+| *Desarrollo seguro en NodeJS (OWASP top ten y buenas prácticas en JWT)* | Announcement: [#1](https://www.koliseo.com/events/commit-2018/r4p/5630471824211968/agenda#/5116072650866688/5169793564934144). <br /> Presentation: [slideshow](https://www.slideshare.net/RalRequeroGarca/desarrollo-seguro-en-nodejs-owasp-top-ten-y-jwt), [video](https://www.youtube.com/watch?v=bMwgLaDyD1w&feature=youtu.be). |
+| *Introducción a d3 y gráficas data-driven* | Announcement: [#1](https://www.koliseo.com/events/commit-2018/r4p/5630471824211968/agenda#/5116072650866688/4870375624146944). <br /> Presentation: [slideshow](LINK), [video](LINK). |
+| *Visualizaciones de datos en tiempo real con D3 y Firebase* | Announcement: [#1](https://www.koliseo.com/events/commit-2018/r4p/5630471824211968/agenda#/5116072650866688/5759418553597952). <br /> Presentation: [slideshow](https://slides.com/jonroji/d3-firebase#/). |
+| *Clean code en la práctica* | Announcement: [#1](https://www.koliseo.com/events/commit-2018/r4p/5630471824211968/agenda#/5116072650866688/5656647770832896). <br /> Presentation: [slideshow](https://slides.com/israelsaetaperez/practical-clean-code-commitconf-2018#/), [video](https://www.youtube.com/watch?v=LhbBzc5Spf0&feature=youtu.be). |
+| *Un caso real de Disaster Recovery* | Announcement: [#1](https://www.koliseo.com/events/commit-2018/r4p/5630471824211968/agenda#/5734118109216768/5997283774562304). <br /> Presentation: [slideshow](https://docs.google.com/presentation/d/1yLorE9pPjZD_QhiYalP6VATYLG2kr1fmQ1wLr0ROyXI/edit#slide=id.gd0f49655_2_0). |
+
+
+## Pending talks to see
+
+| Talk | Resources | Notes |
+| --- | --- | --- |
+| *TITLE* | Announcement: [#1](LINK). <br /> Presentation: [slideshow](LINK), [video](LINK). |
 
 ## November 23
 
